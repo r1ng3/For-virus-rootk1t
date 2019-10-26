@@ -17,7 +17,7 @@
         A popular method for disabling memory protection in the kernel is
         register change CR0.
 
-        Write Protect Bit Enabled in CR0(WP)
+        Write Protect Bit Enabled in CR0
         If you write a kernel level rootkit, then this small code will help you.
         disable this protection.
 */
